@@ -1,5 +1,5 @@
 # gitlet
-This is a Berkeley CS61B's Final Project.
+This is Berkeley CS61B's Final Project.
 Gitlet is a version-control system that mimics some of the basic features of the popular system Git.
 see the original project description: https://inst.eecs.berkeley.edu/~cs61b/sp20/materials/proj/proj3/index.html
 
